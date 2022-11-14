@@ -7,11 +7,11 @@
 	<packaging>pom</packaging>
 	<version>2.1.1-SNAPSHOT</version>
 
-	<parent>
+	<parent> ## ABC 是一个测试
 		<groupId>org.sonatype.oss</groupId>
 		<artifactId>oss-parent</artifactId>
 		<version>7</version>
-	</parent>
+	</parent> ## 测试注释字体
 
 	<name>HoloEverywhere Parent</name>
 	<description>Backport Holo Theme from Android 4.* to 2.1+</description>
