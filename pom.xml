@@ -13,7 +13,7 @@
 		<version>7</version>
 	</parent> ## 测试注释字体
 
-	<name>HoloEverywhere Parent</name>
+	<name>HoloEverywhere Parent</name> ## 注释v0.01
 	<description>Backport Holo Theme from Android 4.* to 2.1+</description>
 	<url>https://github.com/Prototik/HoloEverywhere</url>
 	<inceptionYear>2012</inceptionYear>
